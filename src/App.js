@@ -22,3 +22,4 @@ export default App;
 
 
 //added comment to test something
+//gonna add another component soon 
