@@ -2,6 +2,7 @@
 import './App.css';
 import Navbar from './components/navbar';
 import Cat from './components/cat';
+import Postcard from './components/bean';
 import {Routes, Route} from 'react-router-dom'
 
 function App(props) {
@@ -12,6 +13,7 @@ function App(props) {
       <Routes>
       <Route path='/cat' element={<Cat/>} />
       </Routes>
+      <Postcard/> 
       
     </div>
     </> 
