@@ -1,6 +1,9 @@
 //bean app haven't decided what this is going to be 
 
 import React from 'react'
+//import coffee from '../App/beans.json'
+
+//let coffee = require('~/my')
 
 export default function Postcard(){
 

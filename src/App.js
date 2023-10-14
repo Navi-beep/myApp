@@ -4,6 +4,9 @@ import Navbar from './components/navbar';
 import Cat from './components/cat';
 import Postcard from './components/bean';
 import {Routes, Route} from 'react-router-dom'
+//import 
+
+
 
 function App(props) {
   return (
