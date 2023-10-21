@@ -2,7 +2,7 @@
 
 import React from 'react'
 //import coffee from '../App/beans.json'
-
+// i need to add a new comp to this app
 //let coffee = require('~/my')
 
 export default function Postcard(){
